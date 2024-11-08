@@ -1,30 +1,3 @@
-// import { gql } from '@apollo/client';
-
-// export const QUERY_PETS = gql`
-//   query pets {
-//     pets {
-//       _id
-//       name
-//       age
-//       weight
-//       breed
-//     }
-//   }
-// `;
-
-// export const QUERY_PET = gql`
-//   query pet($_id: ID!) {
-//     pet(_id: $_id) {
-//       _id
-//       name
-//       age
-//       weight
-//       breed
-//     }
-//   }
-// `;
-
-
 import { gql } from '@apollo/client';
 
 export const QUERY_PET_INFO = gql`

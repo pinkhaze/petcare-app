@@ -1,38 +1,3 @@
-// import { gql } from '@apollo/client';
-
-// export const ADD_PET = gql`
-//   mutation addPet($name: String!, $age: Int, $weight: Float, $breed: String) {
-//     addPet(name: $name, age: $age, weight: $weight, breed: $breed) {
-//       _id
-//       name
-//       age
-//       weight
-//       breed
-//     }
-//   }
-// `;
-
-// export const UPDATE_PET = gql`
-//   mutation updatePet($_id: ID!, $name: String, $age: Int, $weight: Float, $breed: String) {
-//     updatePet(_id: $_id, name: $name, age: $age, weight: $weight, breed: $breed) {
-//       _id
-//       name
-//       age
-//       weight
-//       breed
-//     }
-//   }
-// `;
-
-// export const DELETE_PET = gql`
-//   mutation deletePet($_id: ID!) {
-//     deletePet(_id: $_id) {
-//       _id
-//       name
-//     }
-//   }
-// `;
-
 import { gql } from '@apollo/client';
 
 // PetInfo Mutations

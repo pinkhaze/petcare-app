@@ -1,25 +1,3 @@
-// const { Schema, model } = require('mongoose');
-
-// const petInfoSchema = new Schema({
-//   name: {
-//     type: String,
-//     required: true,
-//   },
-//   age: {
-//     type: Number,
-//   },
-//   weight: {
-//     type: Number,
-//   },
-//   breed: {
-//     type: String,
-//   },
-// });
-
-// const PetInfo = model('PetInfo', petInfoSchema);
-
-// module.exports = PetInfo;
-
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
