@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Buddy",
+    "age": 5,
+    "weight": 20.5,
+    "breed": "Labrador"
+  },
+  {
+    "name": "Mittens",
+    "age": 3,
+    "weight": 10.2,
+    "breed": "Maine Coon"
+  }
+]
+

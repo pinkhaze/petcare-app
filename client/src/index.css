@@ -1,0 +1,60 @@
+html {
+  line-height: 1.15;
+}
+
+body {
+  margin: 0;
+  background-color: #ffff;
+}
+
+main {
+  display: block;
+}
+
+.content {
+  background: #ffc321 ;
+  border-radius: 30px;
+  border: 5px solid #404040;
+  padding: 3rem;
+}
+
+.app-name {
+  color: #ffc321;
+}
+
+.homepage-pet {
+  height: 470px;
+  width: 470px;
+}
+
+.homepage-pet2 {
+  height: 300px;
+  width: 300px;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.pet-card {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: left;
+  border: 5px solid #404040;
+  border-radius: 20px;
+}
+.card {
+  background-color: #ffc321
+}
+
+.form {
+  border: 5px solid black;
+  border-radius: 20px;
+  
+}
+
+.form-header {
+  background-color: #ffc321;
+  border-radius: 10px;
+}
